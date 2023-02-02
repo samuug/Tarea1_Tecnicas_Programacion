@@ -2,7 +2,9 @@
 Tarea1 Curso_22_23_Tecnicas
 
 ## Nota:
-https://github.com/samuug/Tarea1_Tecnicas_Programacion.git
+Mi repositorio es: https://github.com/samuug/Tarea1_Tecnicas_Programacion.git
+
+## Enunciado:
 
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:__
