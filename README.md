@@ -12,7 +12,7 @@ Deja un comentario a continuación que responda una o más de estas preguntas, y
 * __¿Qué algoritmos usas en tu vida cotidiana? ¿Piensas que podrías escribir un programa para hacerlos más eficientes?__
 Como hacer un filete, como ducharme, como vestirme, venir a clase, etc. Algunos si, pero otros no creo q puedan hacerse más eficientes.
 
-* __¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?__
+* __¿Qué algoritmos crees que usan por tus juegos y aplicaciones favoritas?\__
 Un ejemplo serían los dialogos cuando dependiendo de tu respuesta tienes un futuro distinto. En las rrss, por ejemplo, el como un post se muestra más o menos.
 
 * __¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?__
